@@ -1,4 +1,4 @@
-# Aspect-Based Sentiment Analysis with Valence–Arousal  
+# Dimensional Aspect-Based Sentiment Analysis with Valence–Arousal  
 ### SemEval Subtasks 1, 2, and 3
 
 This repository contains implementations and experiments for **Subtasks 1, 2, and 3** of an Aspect-Based Sentiment Analysis (ABSA) task with **valence–arousal (VA) prediction**.  
